@@ -27,7 +27,6 @@
 
 body {
     background-color: var(--body-color);
-    height: 100vh;
     color: var(--text-color);
 }
 
@@ -45,7 +44,7 @@ body {
 
 .body-fix {
     display: grid;
-    position: relative; 
+    position: relative;
     gap: 1rem; 
     justify-items: center; 
     place-content: center; 
