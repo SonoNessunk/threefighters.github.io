@@ -6,6 +6,10 @@
 
 }
 
+.content section article h5 a:hover {
+    color: #66666685!important;
+}
+
 .content section {
     max-width: 1024px;
 }
