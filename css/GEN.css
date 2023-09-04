@@ -12,13 +12,6 @@
 
 @media (hover: none) {
     #Mediafire{
-        color: #1966f5 !important;
+        color: #1966f5!important;
     }
-
-    .memb div h5 a{
-        color: rgba(255, 255, 255, 0.068)!important;
-        text-shadow: rgba(255, 255, 255, 0.068) 8px 8px 5px!important;
-        transition: all 0.1s;
-    }
-
 }
