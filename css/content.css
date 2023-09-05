@@ -86,3 +86,12 @@
     }
     
 }
+
+.titlee {
+    font-size: 3rem;
+    text-shadow: #858585 8px 8px 5px !important;
+}
+
+.body-fix h5 {
+    text-shadow: #000000 1.7px 1.7px 1px;
+}
